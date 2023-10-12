@@ -13,5 +13,5 @@ print("aqui cambio", my_name)
 
 # input
 
-my_name = input("Â¿CuÃ¡l es tu nombre?")
+my_name = input("¿Cual es tu nombre?")
 print("usando input", my_name)
